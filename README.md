@@ -15,8 +15,9 @@
 
 | Вебгоҳ&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Шарҳ                                                               |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [100 Daily UI](https://100dailyui.webflow.io/)                                                           | Феҳристи ройгони маҳсулот, унсурҳо ва намоишҳо барои Figma         |
+| [100 Daily UI](https://100dailyui.webflow.io/)                                                           | Маҷмӯаи ройгони маҳсулот, унсурҳо ва намоишҳо барои Figma          |
 | [Animations.co](http://animaticons.co/)                                                                  | Икунҳои GIF-и мутаҳаррик, зебо ва қобили танзим                    |
+| [Avataaars](https://avataaars.com/)                                                                      | Маҷмӯаи тарроҳии ройгони тасвирҳои овотор аз Pablo Stanley         |
 | [UI Design Daily](https://uidesigndaily.com/)                                                            | Анвоъи гуногуни Ҷузъҳои Робити Корбарӣ                             |
 
 <div align="right">
