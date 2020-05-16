@@ -18,6 +18,7 @@
 | [100 Daily UI](https://100dailyui.webflow.io/)                                                           | Маҷмӯаи ройгони маҳсулот, унсурҳо ва намоишҳо барои Figma          |
 | [Animations.co](http://animaticons.co/)                                                                  | Икунҳои GIF-и мутаҳаррик, зебо ва қобили танзим                    |
 | [Avataaars](https://avataaars.com/)                                                                      | Маҷмӯаи тарроҳии ройгони тасвирҳои овотор аз Pablo Stanley         |
+| [Blush](https://blush.design/)                                                                           | Тасовири қобили танзими ройгон бо плогини Figma                    |
 | [UI Design Daily](https://uidesigndaily.com/)                                                            | Анвоъи гуногуни Ҷузъҳои Робити Корбарӣ                             |
 
 <div align="right">
