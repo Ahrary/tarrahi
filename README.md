@@ -13,16 +13,17 @@
 
 >Вебгоҳҳо ва манобеъ бо ҷузъҳои робити корбарии мудерн дар қолабҳои гуногун монанди PSD, Sketch, Figma ва ғайра. Онҳо барои идеаи ҷузъҳои веб ва робити корбарӣ фавқулода ҳастанд.
 
-| Вебгоҳ&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Шарҳ                                                               |
-| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [100 Daily UI](https://100dailyui.webflow.io/)                                                           | Маҷмӯаи ройгони маҳсулот, унсурҳо ва намоишҳо барои Figma          |
-| [Animations.co](http://animaticons.co/)                                                                  | Икунҳои GIF-и мутаҳаррик, зебо ва қобили танзим                    |
-| [Avataaars](https://avataaars.com/)                                                                      | Маҷмӯаи тарроҳии ройгони тасвирҳои овотор аз Pablo Stanley         |
-| [Blush](https://blush.design/)                                                                           | Тасовири қобили танзими ройгон бо плогини Figma                    |
-| [Drawkit.io](https://www.drawkit.io/)                                                                    | Тасвирҳо барои тарроҳон ва исторпотҳо                              |
-| [Humaaans](https://www.humaaans.com/)                                                                    | Тасвирҳои ҷолиби афрод бо тавоноии сириштан (омехта кардан - mix)  |
-| [Illustration.co](https://illlustrations.co/)                                                            | Бастаи тасвирҳои манбаъбоз (Open-source)                           |
-| [UI Design Daily](https://uidesigndaily.com/)                                                            | Анвоъи гуногуни Ҷузъҳои Робити Корбарӣ                             |
+| Вебгоҳ&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Шарҳ                                                                                    |
+| -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| [100 Daily UI](https://100dailyui.webflow.io/)                                                           | Маҷмӯаи ройгони маҳсулот, унсурҳо ва намоишҳо барои Figma                               |
+| [Animations.co](http://animaticons.co/)                                                                  | Икунҳои GIF-и мутаҳаррик, зебо ва қобили танзим                                         |
+| [Avataaars](https://avataaars.com/)                                                                      | Маҷмӯаи тарроҳии ройгони тасвирҳои овотор аз Pablo Stanley                              |
+| [Blush](https://blush.design/)                                                                           | Тасовири қобили танзими ройгон бо плогини Figma                                         |
+| [Drawkit.io](https://www.drawkit.io/)                                                                    | Тасвирҳо барои тарроҳон ва исторпотҳо                                                   |
+| [Humaaans](https://www.humaaans.com/)                                                                    | Тасвирҳои ҷолиби афрод бо тавоноии сириштан (омехта кардан - mix)                       |
+| [Illustration.co](https://illlustrations.co/)                                                            | Бастаи тасвирҳои манбаъбоз (Open-source)                                                |
+| [InvisionApp](https://www.invisionapp.com/inside-design/design-resources/)                               | Маҷмӯаи бастаҳои Робити Корбарии кайфиятболо, ройгон, инчунин бастаҳои икунӣ ва муделҳо |
+| [UI Design Daily](https://uidesigndaily.com/)                                                            | Анвоъи гуногуни Ҷузъҳои Робити Корбарӣ                                                  |
 
 <div align="right">
     <b><a href="#феҳристи-матолиб">↥ Бозгашт ба боло</a></b>
