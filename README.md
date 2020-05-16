@@ -20,6 +20,7 @@
 | [Avataaars](https://avataaars.com/)                                                                      | Маҷмӯаи тарроҳии ройгони тасвирҳои овотор аз Pablo Stanley         |
 | [Blush](https://blush.design/)                                                                           | Тасовири қобили танзими ройгон бо плогини Figma                    |
 | [Drawkit.io](https://www.drawkit.io/)                                                                    | Тасвирҳо барои тарроҳон ва исторпотҳо                              |
+| [Humaaans](https://www.humaaans.com/)                                                                    | Тасвирҳои ҷолиби афрод бо тавоноии сириштан (омехта кардан - mix)  |
 | [UI Design Daily](https://uidesigndaily.com/)                                                            | Анвоъи гуногуни Ҷузъҳои Робити Корбарӣ                             |
 
 <div align="right">
