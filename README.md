@@ -19,6 +19,7 @@
 | [Animations.co](http://animaticons.co/)                                                                  | Икунҳои GIF-и мутаҳаррик, зебо ва қобили танзим                    |
 | [Avataaars](https://avataaars.com/)                                                                      | Маҷмӯаи тарроҳии ройгони тасвирҳои овотор аз Pablo Stanley         |
 | [Blush](https://blush.design/)                                                                           | Тасовири қобили танзими ройгон бо плогини Figma                    |
+| [Drawkit.io](https://www.drawkit.io/)                                                                    | Тасвирҳо барои тарроҳон ва исторпотҳо                              |
 | [UI Design Daily](https://uidesigndaily.com/)                                                            | Анвоъи гуногуни Ҷузъҳои Робити Корбарӣ                             |
 
 <div align="right">
