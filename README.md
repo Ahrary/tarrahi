@@ -21,6 +21,7 @@
 | [Blush](https://blush.design/)                                                                           | Тасовири қобили танзими ройгон бо плогини Figma                    |
 | [Drawkit.io](https://www.drawkit.io/)                                                                    | Тасвирҳо барои тарроҳон ва исторпотҳо                              |
 | [Humaaans](https://www.humaaans.com/)                                                                    | Тасвирҳои ҷолиби афрод бо тавоноии сириштан (омехта кардан - mix)  |
+| [Illustration.co](https://illlustrations.co/)                                                            | Бастаи тасвирҳои манбаъбоз (Open-source)                           |
 | [UI Design Daily](https://uidesigndaily.com/)                                                            | Анвоъи гуногуни Ҷузъҳои Робити Корбарӣ                             |
 
 <div align="right">
